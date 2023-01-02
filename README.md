@@ -23,3 +23,9 @@
 
 ## Git Email festlegen
 `git config --global user.email "myemail@email.com"`
+
+## Github shh connect
+'- ssh-keygen -t rsa -b 4096 -C “email@example.com” – create
+- ssh-keygen -t rsa -b 4096 -C – decode external ssh
+- /home/user/.ssh/ssh_dresca – location for shh key’s
+- ssh-add – ?? to save'
